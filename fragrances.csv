@@ -1,0 +1,133 @@
+fragrance_id,name,brand,price_usd,bottle_size_ml,category,rating
+1,Bleu de Chanel,Chanel,140,100,designer,4.1
+2,Light Blue,Dolce & Gabbana,80,100,designer,4.0
+3,Acqua di Gio,Armani,90,100,designer,4.2
+4,Tom Ford Noir,Tom Ford,150,100,luxury,4.3
+5,Creed Aventus,Creed,300,100,luxury,4.5
+6,Dior Sauvage,Dior,120,100,designer,4.4
+7,Jo Malone Wood Sage & Sea Salt,Jo Malone,70,100,niche,4.2
+8,Byredo Gypsy Water,Byredo,180,100,niche,4.3
+9,Chanel No. 5,Chanel,130,100,luxury,4.6
+10,Baccarat Rouge 540,Maison Francis Kurkdjian,300,100,luxury,4.7
+11,Dior Homme Intense,Dior,150,100,designer,4.3
+12,Sauvage Elixir,Dior,160,100,designer,4.5
+13,Fahrenheit,Dior,110,100,designer,4.2
+14,Dior Homme Parfum,Dior,155,100,designer,4.4
+15,Prada L'Homme,Prada,85,100,designer,4.2
+16,Prada L'Homme Intense,Prada,95,100,designer,4.3
+17,Luna Rossa Black,Prada,90,100,designer,4.1
+18,Luna Rossa Ocean,Prada,100,100,designer,4.2
+19,Luna Rossa Carbon,Prada,85,100,designer,4.1
+20,Allure Homme Sport,Chanel,110,100,designer,4.2
+21,Bleu de Chanel Parfum,Chanel,155,100,designer,4.3
+22,Allure Homme Sport Eau Extreme,Chanel,125,100,designer,4.4
+23,Y EDP,YSL,90,100,designer,4.0
+24,La Nuit de l'Homme,YSL,95,100,designer,4.4
+25,Myslf EDP,YSL,115,100,designer,4.2
+26,Babycat,YSL,280,100,luxury,4.3
+27,Tuxedo,YSL,280,100,luxury,4.5
+28,Y Le Parfum,YSL,105,100,designer,4.1
+29,Place 6,YSL,300,100,luxury,4.4
+30,Uomo Born in Roma Intense,Valentino,115,100,designer,4.3
+31,Born in Roma Coral Fantasy,Valentino,130,100,designer,4.1
+32,Born in Roma,Valentino,105,100,designer,4.2
+33,Gentleman EDP Reserve Privee,Givenchy,140,100,designer,4.3
+34,Pi,Givenchy,75,100,designer,4.0
+35,Gentleman EDP,Givenchy,95,100,designer,4.2
+36,Stronger With You Intensely,Armani,105,100,designer,4.3
+37,Acqua di Gio Profumo,Armani,110,100,designer,4.4
+38,Armani Code Parfum,Armani,115,100,designer,4.2
+39,Stronger With You Absolutely,Armani,120,100,designer,4.4
+40,Le Male Le Parfum,Jean Paul Gaultier,95,100,designer,4.3
+41,Le Male Elixir,Jean Paul Gaultier,110,100,designer,4.4
+42,Ultra Male,Jean Paul Gaultier,85,100,designer,4.2
+43,Le Beau Le Parfum,Jean Paul Gaultier,100,100,designer,4.1
+44,The One For Men EDP,Dolce & Gabbana,90,100,designer,4.2
+45,Light Blue Eau Intense,Dolce & Gabbana,95,100,designer,4.1
+46,Bottled Absolu,Hugo Boss,95,100,designer,4.1
+47,Bottled Elixir,Hugo Boss,110,100,designer,4.2
+48,Guilty,Gucci,80,100,designer,4.0
+49,Supremacy Collectors Edition,Afnan,40,100,clone,4.1
+50,Khamrah,Lattafa,35,100,clone,4.2
+51,Club de Nuit Intense,Armaf,30,100,clone,4.0
+52,Liquid Brun,French Avenue,28,100,clone,4.0
+53,Vulcan Feu,French Avenue,30,100,clone,4.1
+54,Island Dreams,Khadlaj,25,100,clone,3.9
+55,Rayhaan Elixir,Rayhaan,33,100,clone,4.0
+56,Obsidian,Rayhaan,35,100,clone,4.1
+57,Pacific Aura,Rayhaan,30,100,clone,4.0
+58,Hectic,Bujairami,32,100,clone,3.9
+59,Santal 33,Le Labo,220,100,niche,4.4
+60,Another 13,Le Labo,220,100,niche,4.2
+61,Thé Noir 29,Le Labo,240,100,niche,4.5
+62,Bergamote 22,Le Labo,210,100,niche,4.1
+63,Bal d'Afrique Absolu,Byredo,210,100,niche,4.3
+64,Mojave Ghost,Byredo,190,100,niche,4.2
+65,Vanille Antique,Byredo,200,100,niche,4.4
+66,Blanche,Byredo,190,100,niche,4.1
+67,By The Fireplace,Maison Margiela,135,100,niche,4.3
+68,Jazz Club,Maison Margiela,135,100,niche,4.4
+69,Sailing Day,Maison Margiela,135,100,niche,4.1
+70,At The Barber's,Maison Margiela,135,100,niche,4.0
+71,Tam Dao,Diptyque,160,100,niche,4.5
+72,Orpheon,Diptyque,165,100,niche,4.3
+73,Philosykos,Diptyque,160,100,niche,4.4
+74,L'Ombre dans L'Eau,Diptyque,155,100,niche,4.2
+75,Halfeti,Penhaligon's,180,100,niche,4.3
+76,Blazing Mr Sam,Penhaligon's,180,100,niche,4.2
+77,Cairo,Penhaligon's,180,100,niche,4.1
+78,Endymion,Penhaligon's,180,100,niche,4.3
+79,Molecule 01,Escentric Molecules,135,100,niche,4.2
+80,Chergui,Serge Lutens,140,100,niche,4.4
+81,Portrait of a Lady,Frederic Malle,255,100,niche,4.6
+82,Oud Wood,Tom Ford,240,100,luxury,4.5
+83,Tobacco Vanille,Tom Ford,250,100,luxury,4.6
+84,Lost Cherry,Tom Ford,350,100,luxury,4.4
+85,Ombré Leather,Tom Ford,230,100,luxury,4.3
+86,Soleil Blanc,Tom Ford,240,100,luxury,4.2
+87,Noir Extreme,Tom Ford,130,100,luxury,4.3
+88,Green Irish Tweed,Creed,360,100,luxury,4.4
+89,Virgin Island Water,Creed,330,100,luxury,4.3
+90,Aventus Absolu,Creed,380,100,luxury,4.5
+91,Millesime Imperial,Creed,360,100,luxury,4.3
+92,Elysium,Roja Dove,375,100,luxury,4.7
+93,Enigma,Roja Dove,435,100,luxury,4.8
+94,Oceania,Roja Dove,395,100,luxury,4.6
+95,Vetiver,Roja Dove,350,100,luxury,4.5
+96,Interlude Man,Amouage,300,100,luxury,4.5
+97,Reflection Man,Amouage,320,100,luxury,4.4
+98,Purpose,Amouage,310,100,luxury,4.3
+99,Outlands,Amouage,295,100,luxury,4.2
+100,Layton,Parfums de Marly,295,100,luxury,4.5
+101,Althair,Parfums de Marly,280,100,luxury,4.4
+102,Haltane,Parfums de Marly,290,100,luxury,4.6
+103,Oajan,Parfums de Marly,285,100,luxury,4.3
+104,Back to Black,Killian,265,100,luxury,4.4
+105,Angel's Share,Killian,265,100,luxury,4.7
+106,Black Phantom,Killian,265,100,luxury,4.5
+107,Angels' Share Paradis,Killian,280,100,luxury,4.4
+108,Absolute Aphrodisiac,Initio,310,100,luxury,4.6
+109,Side Effect,Initio,310,100,luxury,4.5
+110,Narcotic Delight,Initio,315,100,luxury,4.4
+111,Musk Therapy,Initio,295,100,luxury,4.3
+112,Blonde Amber,Clive Christian,435,100,luxury,4.6
+113,Hedonistic,Clive Christian,450,100,luxury,4.5
+114,Naxos,Xerjoff,250,100,luxury,4.5
+115,Alexandria II,Xerjoff,265,100,luxury,4.6
+116,Tony Iommi Monkey Special,Xerjoff,280,100,luxury,4.4
+117,Hibiscus Mahajad,Maison Crivelli,245,100,luxury,4.3
+118,Oud Maracuja,Maison Crivelli,245,100,luxury,4.4
+119,Oud Cadenza,Maison Crivelli,245,100,luxury,4.5
+120,Blue Talisman EDP,Ex Nihilo,270,100,luxury,4.4
+121,Brompton Immortals EXDP,Ex Nihilo,265,100,luxury,4.5
+122,The Hedonist EXDP,Ex Nihilo,280,100,luxury,4.3
+123,Silky Woods,Goldfield & Banks,180,100,luxury,4.2
+124,Ingenious Ginger,Goldfield & Banks,175,100,luxury,4.3
+125,Tobaccolor,Dior,300,100,luxury,4.5
+126,Ambre Nuit,Dior,300,100,luxury,4.6
+127,Gris Dior,Dior,300,100,luxury,4.4
+128,Imagination,Louis Vuitton,265,100,luxury,4.5
+129,Pacific Chill,Louis Vuitton,255,100,luxury,4.3
+130,Ombre Nomade,Louis Vuitton,350,100,luxury,4.6
+131,Les Sables Roses,Louis Vuitton,265,100,luxury,4.4
+132,Symphony,Louis Vuitton,270,100,luxury,4.3

@@ -1,0 +1,196 @@
+note_id,note_name,note_family
+1,grapefruit,fresh
+2,lemon,fresh
+3,mint,aromatic
+4,pink pepper,spicy
+5,ginger,spicy
+6,jasmine,floral
+7,sandalwood,woody
+8,amber,ambery
+9,patchouli,woody
+10,cedar,woody
+11,vetiver,woody
+12,incense,aromatic
+13,sicilian lemon,fresh
+14,apple,fresh
+15,cedarwood,woody
+16,bamboo,green
+17,white musk,clean
+18,bergamot,fresh
+19,neroli,floral
+20,marine notes,aquatic
+21,rosemary,aromatic
+22,rose,floral
+23,black pepper,spicy
+24,nutmeg,spicy
+25,vanilla,gourmand
+26,tonka bean,gourmand
+27,coffee,gourmand
+28,pineapple,fresh
+29,blackcurrant,fresh
+30,birch,woody
+31,musk,clean
+32,oakmoss,earthy
+33,ambergris,ambery
+34,calabrian bergamot,fresh
+35,pepper,spicy
+36,lavender,aromatic
+37,sichuan pepper,spicy
+38,elemi,resinous
+39,geranium,floral
+40,sea salt,aquatic
+41,sage,aromatic
+42,grapefruit wood,woody
+43,ambrette seeds,musky
+44,pine needles,green
+45,juniper berries,aromatic
+46,lemon,fresh
+47,bergamot,fresh
+48,mandarin,fresh
+49,ylang-ylang,floral
+50,iris,floral
+51,vetiver,woody
+52,aldehyde,powdery
+53,neroli,floral
+54,orange blossom,floral
+55,saffron,spicy
+56,jasmine sambac,floral
+57,amberwood,ambery
+58,fir resin,resinous
+59,cedarwood,woody
+60,ambroxan,synthetic
+61,licorice,spicy
+62,cacao,gourmand
+63,gasoline,industrial
+64,hawthorn,floral
+65,honeysuckle,floral
+66,leather,leather
+67,violet,floral
+68,neroli,floral
+69,coumarin,aromatic
+70,angelica,aromatic
+71,saffron,spicy
+72,opoponax,resinous
+73,lavender absolute,aromatic
+74,metallic notes,synthetic
+75,mineral notes,synthetic
+76,woods,woody
+77,mandarin orange,fresh
+78,sea notes,aquatic
+79,aldehydes,synthetic
+80,labdanum,resinous
+81,cypress,green
+82,apple,fresh
+83,ginger,spicy
+84,sage,aromatic
+85,geranium,floral
+86,olibanum,resinous
+87,cardamom,spicy
+88,peach,fresh
+89,ylang-ylang,floral
+90,lily,floral
+91,pear,fresh
+92,lily of the valley,floral
+93,salt,mineral
+94,violet leaf,green
+95,guaiac wood,woody
+96,coconut,gourmand
+97,frangipani,floral
+98,tuberose,floral
+99,solar notes,synthetic
+100,woods,woody
+101,whiskey,gourmand
+102,cinnamon,spicy
+103,anise,spicy
+104,almond,gourmand
+105,basil,aromatic
+106,orris root,floral
+107,toffee,gourmand
+108,juniper,aromatic
+109,chestnut,gourmand
+110,clary sage,aromatic
+111,suede,leather
+112,davana,floral
+113,rum,gourmand
+114,Madagascar vanilla,gourmand
+115,orange,fresh
+116,iris flower,floral
+117,oriental vanilla,gourmand
+118,citruses,fresh
+119,pear cocktail,fresh
+120,black vanilla,gourmand
+121,coconut water,fresh
+122,tonka absolute,gourmand
+123,tobacco,spicy
+124,coriander,spicy
+125,marigold,floral
+126,frozen grapefruit,fresh
+127,seaweed,aquatic
+128,rosewood,woody
+129,myrrh,resinous
+130,woody notes,woody
+131,blackcurrant leaves,green
+132,date,gourmand
+133,praline,gourmand
+134,mahonial,synthetic
+135,smoke,industrial
+136,oud,woody
+137,clove,spicy
+138,black tea,aromatic
+139,ambrette,musky
+140,fig,fresh
+141,papyrus,woody
+142,salicylates,synthetic
+143,hay,aromatic
+144,petitgrain,fresh
+145,African marigold,floral
+146,cyclamen,floral
+147,Jamaican nesberry,fresh
+148,magnolia,floral
+149,cashmere wood,woody
+150,peony,floral
+151,cashmeran,synthetic
+152,tobacco leaf,spicy
+153,aquatic accord,aquatic
+154,red seaweed,aquatic
+155,bitter orange,fresh
+156,fig leaf,green
+157,fig tree,green
+158,fig wood,woody
+159,green notes,green
+160,Iso E Super,synthetic
+161,honey,gourmand
+162,raspberry,fresh
+163,benzoin,resinous
+164,oud wood,woody
+165,cocoa,gourmand
+166,dried fruits,gourmand
+167,cherry,fresh
+168,moss,earthy
+169,pistachio,gourmand
+170,kulfi,gourmand
+171,lemon verbena,fresh
+172,lime,fresh
+173,white rum,gourmand
+174,thyme,aromatic
+175,galbanum,green
+176,cognac,gourmand
+177,heliotrope,floral
+178,oregano,aromatic
+179,frankincense,resinous
+180,red pepper berries,spicy
+181,orris,floral
+182,bourbon vanilla,gourmand
+183,oak,woody
+184,hazelnut,gourmand
+185,red berries,fresh
+186,castoreum,animalic
+187,mimosa,floral
+188,hibiscus,floral
+189,passionfruit,fresh
+190,violet leaves,green
+191,lychee,fresh
+192,akigalawood,woody
+193,plum,fresh
+194,cypriol,woody
+195,citrus,fresh
