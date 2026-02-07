@@ -17,6 +17,25 @@ This project analyzes fragrance ratings, pricing, and scent profiles to uncover 
 - **Designer fragrances** offer 3.91x better value per dollar than luxury
 - **Ultra-luxury** ($350+) only improves ratings by 0.28 stars
 
+## 📊 Visual Analysis
+
+### Price vs Rating: Does Expensive Mean Better?
+![Price vs Rating Analysis](visualizations/1_price_vs_rating.png)
+
+**Key Finding:** Weak correlation between price and rating. Many affordable fragrances ($100-150) rate just as highly as ultra-luxury options ($350+).
+
+### The Sweet Spot: Value Score by Price Range
+![Value Score Analysis](visualizations/2_value_score.png)
+
+**Key Finding:** The $100-$150 range delivers 3.91 rating points per $100 spent - the best value in the market.
+
+### Luxury Indicators: Notes That Predict High Ratings
+![Top Notes Analysis](visualizations/4_top_notes.png)
+
+**Key Finding:** Fragrances containing tobacco, saffron, and vanilla average 4.4+ stars, regardless of price point.
+
+---
+
 ### 🔬 The "Luxury Indicators"
 Notes that predict high ratings:
 1. **Tobacco** (4.49 avg) - $247 avg price
